@@ -16,7 +16,7 @@ dependencies:
   fluttertoast: ^8.0.1-nullsafety.0
   device_info: ^2.0.0
   package_info: ^2.0.0
-  mailer: ^4.0.0
+  mailer: ^6.4.1
   dio: ^4.0.0-beta6
   flutter_mailer: ^2.0.0-null-safe
   logging: ^1.0.0
